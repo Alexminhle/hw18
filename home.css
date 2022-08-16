@@ -1,0 +1,280 @@
+/* screen - home */
+
+.home {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 935px;
+}
+
+.home .overlap-group {
+  height: 4096px;
+  margin-left: -165px;
+  position: relative;
+  width: 1345px;
+}
+
+.home .rectangle-293 {
+  background-color: #161616;
+  height: 4093px;
+  left: 165px;
+  position: absolute;
+  top: 3px;
+  width: 935px;
+}
+
+.home .rectangle-295 {
+  background-color: var(--black);
+  height: 643px;
+  left: 165px;
+  position: absolute;
+  top: 446px;
+  width: 935px;
+}
+
+.home .rectangle-294 {
+  background-color: #e6e0dc;
+  height: 1296px;
+  left: 165px;
+  position: absolute;
+  top: 2688px;
+  width: 935px;
+}
+
+.home .rectangle-272 {
+  height: 372px;
+  left: 926px;
+  position: absolute;
+  top: 3008px;
+  transform: rotate(-21.94deg);
+  width: 188px;
+}
+
+.home .group {
+  height: 147px;
+  left: 850px;
+  position: absolute;
+  top: 2953px;
+  width: 210px;
+}
+
+.home .vector {
+  height: 122px;
+  left: 794px;
+  position: absolute;
+  top: 2925px;
+  width: 289px;
+}
+
+.home .group-1 {
+  height: 172px;
+  left: 803px;
+  position: absolute;
+  top: 2973px;
+  width: 190px;
+}
+
+.home .rectangle-275 {
+  background-color: var(--black);
+  height: 48px;
+  left: 934px;
+  position: absolute;
+  top: 3109px;
+  transform: rotate(-22.03deg);
+  width: 16px;
+}
+
+.home .rectangle-276 {
+  background-color: var(--black);
+  height: 48px;
+  left: 1005px;
+  position: absolute;
+  top: 3083px;
+  transform: rotate(-22.03deg);
+  width: 16px;
+}
+
+.home .desktop-17-1 {
+  height: 1216px;
+  left: 321px;
+  object-fit: cover;
+  position: absolute;
+  top: 2728px;
+  width: 418px;
+}
+
+.home .rectangle-273 {
+  height: 341px;
+  left: 852px;
+  position: absolute;
+  top: 3606px;
+  transform: rotate(30.70deg);
+  width: 170px;
+}
+
+.home .rectangle-274 {
+  height: 209px;
+  left: 65px;
+  position: absolute;
+  top: 3362px;
+  transform: rotate(20.53deg);
+  width: 188px;
+}
+
+.home .ohs-home-1 {
+  height: 1447px;
+  left: 553px;
+  object-fit: cover;
+  position: absolute;
+  top: 1185px;
+  width: 354px;
+}
+
+.home .ellipse-48 {
+  border-radius: 117.5px/108px;
+  height: 216px;
+  left: 926px;
+  position: absolute;
+  top: 2161px;
+  width: 235px;
+}
+
+.home .ellipse-49 {
+  background-color: var(--alto);
+  border-radius: 10.44px/19.61px;
+  height: 39px;
+  left: 1009px;
+  position: absolute;
+  top: 2213px;
+  transform: rotate(41.23deg);
+  width: 21px;
+}
+
+.home .ellipse-50 {
+  background-color: var(--alto);
+  border-radius: 10.44px/19.61px;
+  height: 39px;
+  left: 1069px;
+  position: absolute;
+  top: 2258px;
+  transform: rotate(41.23deg);
+  width: 21px;
+}
+
+.home .ellipse-48-1 {
+  border-radius: 184.5px/185.5px;
+  height: 371px;
+  left: 0;
+  position: absolute;
+  top: 1704px;
+  width: 369px;
+}
+
+.home .ellipse-47 {
+  border-radius: 184.5px/185.5px;
+  height: 371px;
+  left: 976px;
+  position: absolute;
+  top: 1092px;
+  width: 369px;
+}
+
+.home .intro-1 {
+  height: 489px;
+  left: 355px;
+  object-fit: cover;
+  position: absolute;
+  top: 530px;
+  width: 211px;
+}
+
+.home .kindpng_4787232-1 {
+  height: 519px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 515px;
+  width: 243px;
+}
+
+.home .polygon-2 {
+  height: 142px;
+  left: 644px;
+  position: absolute;
+  top: 918px;
+  width: 158px;
+}
+
+.home .polygon-1 {
+  height: 193px;
+  left: 942px;
+  position: absolute;
+  top: 515px;
+  width: 158px;
+}
+
+.home .jap-1 {
+  height: 157px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 935px;
+}
+
+.home .rectangle-296 {
+  background-color: var(--white);
+  height: 64px;
+  left: 165px;
+  position: absolute;
+  top: 0;
+  width: 935px;
+}
+
+.home .name {
+  color: var(--black);
+  font-family: var(--font-family-cormorant_garamond);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 537px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 191px;
+}
+
+.home .about-me {
+  color: var(--white);
+  font-family: var(--font-family-cormorant_garamond);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 728px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 231px;
+  width: 191px;
+}
+
+.home .lorem-ipsum-dolor-si {
+  color: var(--white);
+  font-family: var(--font-family-cormorant_garamond);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 657px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 276px;
+  width: 333px;
+}
+
+.home .rectangle-297 {
+  background-color: var(--alto);
+  height: 175px;
+  left: 263px;
+  position: absolute;
+  top: 252px;
+  width: 303px;
+}
